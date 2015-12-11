@@ -1,7 +1,7 @@
 name: Grafix Unlimited
 favicon: null
-layout_spectrum: 0.6372274933382869
-typography_spectrum: 0.017746399622410536
+layout_spectrum: 1
+typography_spectrum: 0.31626
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.4498140283394605
-  lightness: 0.4533020821399987
-  saturation: 0.14560979674570262
+    - '#7766ad'
+    - '#f89a1f'
+    - '#282560'
+    - '#9acb3d'
+    - '#ffffff'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.75
   rhythmicContrast: 0.6636018534190953
 purpose: []
