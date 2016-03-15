@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Logo Design\_"
-datePublished: '2016-03-15T16:21:44.675Z'
-dateModified: '2016-03-15T16:20:35.148Z'
+datePublished: '2016-03-15T16:29:32.362Z'
+dateModified: '2016-03-15T16:21:52.267Z'
 title: Design and Print Services
 author: []
 sourcePath: _posts/2016-03-15-design-and-print-services.md
