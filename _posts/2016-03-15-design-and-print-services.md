@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "\_Logo Design\_"
-datePublished: '2016-03-15T16:18:59.623Z'
-dateModified: '2016-03-15T16:18:42.943Z'
+datePublished: '2016-03-15T16:21:44.675Z'
+dateModified: '2016-03-15T16:20:35.148Z'
 title: Design and Print Services
 author: []
+sourcePath: _posts/2016-03-15-design-and-print-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-design-and-print-services.md
-published: true
 url: design-and-print-services/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Design and Print Services
