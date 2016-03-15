@@ -2,18 +2,18 @@
     <channel>
         <title><![CDATA[Grafix Unlimited]]></title>
         <description><![CDATA[Grafix Unlimited]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grafix-unlimited/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:28:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 16:29:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grafix-unlimited/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CONTACT ]]></title>
             <description><![CDATA[<article><h1>CONTACT </h1><p>Grafix Unlimited
 Cathy Graham, Owner/Designer
 Colorado Springs, CO </p></article>]]></description>
-            <link>undefinedcontact/index.html</link>
+            <link>https://thegrid.ai/grafix-unlimited/contact/index.html</link>
             <guid isPermaLink="false">9349172d-b5da-4274-994a-eced11308e1d</guid>
-            <pubDate>Tue, 15 Mar 2016 16:28:42 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 16:29:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
