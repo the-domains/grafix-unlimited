@@ -1,6 +1,6 @@
 name: Grafix Unlimited
 favicon: null
-layout_spectrum: 0.48618
+layout_spectrum: 0.25541
 typography_spectrum: 0.12793
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ededed'
     - '#7f7f7f'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 1
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
